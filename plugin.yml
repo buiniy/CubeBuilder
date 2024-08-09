@@ -1,0 +1,9 @@
+name: CubeBuilder
+version: 1.0
+api: 5.0.0
+main: phpcube\CubeBuilder
+author: vk.com/phpcube
+permissions:
+  cmd.builder:
+    description: "Право на команду /builder"
+    default: op
